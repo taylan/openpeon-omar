@@ -10,6 +10,7 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
+  "source_repo": "taylan/openpeon-omar",
   "categories": {
     "session.start": [
       {
