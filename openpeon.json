@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "omar",
   "display_name": "Omar Little (The Wire)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Omar comin'. Iconic Omar Little lines from The Wire.",
   "author": {
     "name": "Taylan Aydinli",
@@ -11,6 +11,7 @@
   "license": "CC-BY-NC-4.0",
   "language": "en",
   "source_repo": "taylan/openpeon-omar",
+  "icon": "icons/pack.png",
   "categories": {
     "session.start": {
       "sounds": [
@@ -64,11 +65,6 @@
           "sha256": "5f35563196348725cc6af533faa35baaaed92e18ab27f5384695fc18b3f4135b"
         },
         {
-          "file": "sounds/its-all-in-the-game.mp3",
-          "label": "It's all in the game though, right?",
-          "sha256": "242f2552a30d8fcf2f206507a77fd0f05f8fd140e21fcb72ab95341f23a0a801"
-        },
-        {
           "file": "sounds/indeed-short.mp3",
           "label": "Indeed.",
           "sha256": "cda6a53a6533d747d60ed153d380fe3635e85454c70a0458bf264749194fd48f"
@@ -96,11 +92,6 @@
           "file": "sounds/indeed.mp3",
           "label": "Oh, indeed.",
           "sha256": "bde96bd7791a919a796b45243a868a2082d733408f1830a48e671e7e832d6ef7"
-        },
-        {
-          "file": "sounds/man-gotta-have-a-code.mp3",
-          "label": "A man got to have a code.",
-          "sha256": "29614c88378f47de169bc52125cb8bd3c5859b1e0d765ac6699b301f8eeb037b"
         },
         {
           "file": "sounds/the-cheese-stands-alone.mp3",
@@ -147,9 +138,9 @@
           "sha256": "7c6208431502c5cce35dba350e9963b85fc82c344dd8b6a870a1e8c5e1884dc8"
         },
         {
-          "file": "sounds/you-know-how-that-be.mp3",
-          "label": "You know how that be.",
-          "sha256": "f71750e0b434faf5a9f16ecf58c596bb8a8e70642b7aaf66e63d23486d574f3b"
+          "file": "sounds/man-gotta-have-a-code.mp3",
+          "label": "A man got to have a code.",
+          "sha256": "29614c88378f47de169bc52125cb8bd3c5859b1e0d765ac6699b301f8eeb037b"
         },
         {
           "file": "sounds/some-rules-here-right.mp3",
@@ -237,6 +228,11 @@
     },
     "task.progress": {
       "sounds": [
+        {
+          "file": "sounds/day-at-a-time.mp3",
+          "label": "Day at a time, I suppose.",
+          "sha256": "8f4fc0da0bc88053c0c42d2487427f28c03b19c7ec78f5ba49332a18355cad80"
+        },
         {
           "file": "sounds/play-or-get-played.mp3",
           "label": "The game is out there, and it's either play or get played.",
