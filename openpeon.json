@@ -2,11 +2,11 @@
   "cesp_version": "1.0",
   "name": "omar",
   "display_name": "Omar Little (The Wire)",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Omar comin'. Iconic Omar Little lines from The Wire.",
   "author": {
     "name": "Taylan Aydinli",
-    "github": "taylanaydinli"
+    "github": "taylan"
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
